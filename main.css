@@ -18,12 +18,13 @@ img{
 }
 
 .email{
-  margin-left: 40px;
+  margin-left: -40px;
   font-size: 22px;
 }
 
 .insta{
   font-size: 22px;
+
 }
 
 header h1 {
@@ -75,18 +76,22 @@ section .row img {
 .col-sm-6 {
   font-family: Palatino, 'Palatino Linotype', serif;
   font-size: 32px;
-
+  margin: 0rem;
+  margin-bottom: 12px;
 }
 
 .exp{
   font-family: Palatino, 'Palatino Linotype', serif;
   font-size: 32px;
-
+  margin-left: 0px;
 }
 
-fsasdgsg.container{
-  background-image: url(the_hook.jpg);
-  background-size: 100%;
+.seanet {
+  margin-left: 20px;
+}
+
+.container{
+
 
 }
 
