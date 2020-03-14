@@ -14,7 +14,12 @@ footer .row {
 }
 
 img{
-  margin-right: 20px;
+  margin: 12px;
+}
+
+.moveimage {
+    position: relative;
+    top: 3.2px;
 }
 
 .email{
@@ -24,7 +29,7 @@ img{
 
 .insta{
   font-size: 22px;
-
+  margin-left: 10%;
 }
 
 header h1 {
@@ -88,13 +93,8 @@ section .row img {
 
 .seanet {
   margin-left: 20px;
+  line-height: 300%;
 }
-
-.container{
-
-
-}
-
 
 .btn.btn-primary {
   border-radius: 2px;
