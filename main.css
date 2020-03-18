@@ -22,11 +22,6 @@ img{
     top: 3.2px;
 }
 
-.email{
-  margin-left: -40px;
-  font-size: 22px;
-}
-
 .insta{
   font-size: 22px;
   margin-left: 10%;
@@ -34,7 +29,6 @@ img{
 
 header h1 {
   font-weight: 700;
-  margin: 0;
 }
 
 header nav {
@@ -44,7 +38,6 @@ header nav {
 
 header p {
   padding: 0 20px;
-  margin: 0;
 }
 
 .jumbotron {
@@ -88,11 +81,10 @@ section .row img {
 .exp{
   font-family: Palatino, 'Palatino Linotype', serif;
   font-size: 32px;
-  margin-left: 0px;
 }
 
 .seanet {
-  margin-left: 20px;
+  margin-left: 0px;
   line-height: 300%;
 }
 
